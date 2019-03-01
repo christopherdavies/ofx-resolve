@@ -2,10 +2,16 @@
 
 #include <stdio.h>
 
+// #include "../../openfx/Support/include/ofxsImageEffect.h"
+// #include "../../openfx/Support/include/ofxsMultiThread.h"
+// #include "../../openfx/Support/Plugins/include/ofxsProcessing.h"
+// #include "../../openfx/Support/include/ofxsLog.h"
+
 #include "../Support/include/ofxsImageEffect.h"
 #include "../Support/include/ofxsMultiThread.h"
 #include "../Support/include/ofxsProcessing.h"
 #include "../Support/include/ofxsLog.h"
+
 
 #define kPluginName "Highlight HDR"
 #define kPluginGrouping "chrisfx"

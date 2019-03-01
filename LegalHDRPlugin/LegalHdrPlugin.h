@@ -1,6 +1,6 @@
 #pragma once
 
-#include "../Support/include/ofxsImageEffect.h"
+#include "../../openfx/Support/include/ofxsImageEffect.h"
 
 class LegalHdrPluginFactory : public OFX::PluginFactoryHelper<LegalHdrPluginFactory>
 {
